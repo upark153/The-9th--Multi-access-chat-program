@@ -1,2 +1,21 @@
 # The-9th--Multi-access-chat-program
 It consists of a TCP / IP server and a client, and a multi-chat room access program was created with Qt.
+
+![3팀채팅방개설(2월4일)](https://user-images.githubusercontent.com/115389450/235422722-61e7367d-2b9e-418e-9ac1-508498d6ed13.gif)
+![3팀대화(2월4일)](https://user-images.githubusercontent.com/115389450/235422833-102bae54-bf85-4410-b264-64800c878c9c.gif)
+![3팀지난대화내용(2월4일)](https://user-images.githubusercontent.com/115389450/235422886-f1e80269-4590-4cb2-9cb2-8aaf4e95c8b8.gif)
+![image](https://user-images.githubusercontent.com/115389450/235422955-cfbea378-8039-4883-8f72-97a4a64f0d92.png)
+![image](https://user-images.githubusercontent.com/115389450/235422998-62474597-463f-4b2f-9b3e-0b6b7ae81722.png)
+![image](https://user-images.githubusercontent.com/115389450/235423031-f86d3401-650d-47ca-869a-715f56a8b0a5.png)
+![image](https://user-images.githubusercontent.com/115389450/235423068-599a5a21-78ca-4662-8a15-3172e8955ac0.png)
+![image](https://user-images.githubusercontent.com/115389450/235423100-37a88cfe-dbc4-47a9-a2b9-fce76fdebaa2.png)
+![image](https://user-images.githubusercontent.com/115389450/235423170-0bc8f77f-2c89-4ec9-be9a-57bc3dbb21e2.png)
+![image](https://user-images.githubusercontent.com/115389450/235423213-732ff0bd-b3da-4835-a1a6-5effb540a6aa.png)
+![image](https://user-images.githubusercontent.com/115389450/235423241-4d3d81b1-a8c6-4773-8341-983546268496.png)
+![image](https://user-images.githubusercontent.com/115389450/235423314-c2fddc21-2a50-4e25-a842-3ffdbc18ef01.png)
+![image](https://user-images.githubusercontent.com/115389450/235423371-d6c91916-18f8-495a-9699-daf168919280.png)
+![image](https://user-images.githubusercontent.com/115389450/235423395-a790a355-c8e0-4e41-a3a0-981c86076398.png)
+![image](https://user-images.githubusercontent.com/115389450/235423447-4c06cb38-0cf8-407e-a053-e9dea427ac2e.png)
+![image](https://user-images.githubusercontent.com/115389450/235423529-cf37e4f1-d305-47e9-a0a7-c1cb6043f4b5.png)
+![image](https://user-images.githubusercontent.com/115389450/235423586-b74e695e-94b7-4291-83d4-1c9a0b60f8aa.png)
+![image](https://user-images.githubusercontent.com/115389450/235423620-a2f83841-d06a-4e00-868a-1b37f6eb346b.png)
